@@ -1,3 +1,4 @@
+// source: https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/?envType=daily-question&envId=2025-01-06
 // import java.util.ArrayList;
 
 public class Solution {

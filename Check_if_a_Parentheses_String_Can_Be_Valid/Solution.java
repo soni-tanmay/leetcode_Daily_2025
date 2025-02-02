@@ -1,3 +1,4 @@
+//source: https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description/?envType=daily-question&envId=2025-01-12
 public class Solution {
     public static boolean canBeValid(String s, String locked) {
         if (s.length() % 2 == 1) {

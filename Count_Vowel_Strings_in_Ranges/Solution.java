@@ -1,3 +1,4 @@
+// source: https://leetcode.com/problems/count-vowel-strings-in-ranges/description/?envType=daily-question&envId=2025-01-02
 public class Solution {
     public static int[] vowelStrings(String[] words, int[][] queries) {
         int size = words.length;

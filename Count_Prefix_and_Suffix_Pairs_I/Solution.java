@@ -1,3 +1,4 @@
+// source: https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08
 class Solution {
     public static int countPrefixSuffixPairs(String[] words) {
         int count = 0;

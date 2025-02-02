@@ -1,3 +1,4 @@
+// source: https://leetcode.com/problems/minimum-length-of-string-after-operations/description/?envType=daily-question&envId=2025-01-13
 public class Solution {
     public static int minimumLength(String s) {
         for (byte c : s.getBytes()) {

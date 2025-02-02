@@ -1,3 +1,4 @@
+//source: https://leetcode.com/problems/minimize-xor/description/?envType=daily-question&envId=2025-01-15
 public class Solution {
     public static int minimizeXor(int num1, int num2) {
         int result = num1;

@@ -1,3 +1,5 @@
+
+// source: https://leetcode.com/problems/find-eventual-safe-states/description/?envType=daily-question&envId=2025-01-24
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

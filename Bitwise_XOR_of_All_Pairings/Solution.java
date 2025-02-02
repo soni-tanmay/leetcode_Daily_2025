@@ -1,3 +1,4 @@
+// source: https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/?envType=daily-question&envId=2025-01-16
 public class Solution {
     public static int xorAllNums(int[] nums1, int[] nums2) {
         int result = 0;

@@ -1,3 +1,4 @@
+//source: https://leetcode.com/problems/construct-k-palindrome-strings/description/?envType=daily-question&envId=2025-01-11
 public class Solution {
     public static boolean canConstruct(String s, int k) {
         if (s.length() < k)

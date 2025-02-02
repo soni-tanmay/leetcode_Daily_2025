@@ -1,3 +1,5 @@
+
+// source: https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/?envType=daily-question&envId=2025-01-26
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;

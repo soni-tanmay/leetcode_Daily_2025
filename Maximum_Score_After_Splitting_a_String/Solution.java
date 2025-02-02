@@ -1,3 +1,4 @@
+// source: https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/?envType=daily-question&envId=2025-01-01
 class Solution {
     public static int maxScore(String s) {
         // char[] ch = s.toCharArray();

@@ -1,3 +1,5 @@
+
+//source: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=daily-question&envId=2025-02-02
 import java.util.Arrays;
 
 public class Solution {

@@ -1,3 +1,5 @@
+
+//source: https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=daily-question&envId=2025-01-14
 import java.util.HashMap;
 
 class Solution {
@@ -42,5 +44,8 @@ class Solution {
     public static void main(String[] args) {
         int[] A = { 1, 3, 2, 4 }, B = { 3, 1, 2, 4 };
         int[] res = findThePrefixCommonArray(A, B);
+        for (int r : res) {
+            System.out.println(r);
+        }
     }
 }

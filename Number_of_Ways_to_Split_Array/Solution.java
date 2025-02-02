@@ -1,3 +1,4 @@
+// source: https://leetcode.com/problems/number-of-ways-to-split-array/description/?envType=daily-question&envId=2025-01-03
 public class Solution {
     public static int waysToSplitArray(int[] nums) {
         int l = nums.length;
